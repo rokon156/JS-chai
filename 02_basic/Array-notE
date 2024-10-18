@@ -1,0 +1,13 @@
+**********************ARRAY*************************
+____________________________________________________
+
+1. array_name.push(value)---------> Last index a value add Korey
+2. array_name.pop()---------------> Last index theky value delete korey
+3. array_name.unshift(value)------> Fast index a value add korey
+4. array_name.shift()-------------> Fast index theky value delete korey
+
+
+5. array_name.includes(value)-----> value thakly "true" otherwise "false"
+6. array_name.indexof(value)------> value thakly "index no" otherwise "-1"
+
+7. array_name.join()--------------> convert array into a String
